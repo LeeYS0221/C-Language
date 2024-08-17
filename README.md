@@ -1,2 +1,2 @@
-# C-Language-
+# C-Language
 Lab Repository
